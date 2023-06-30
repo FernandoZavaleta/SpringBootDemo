@@ -34,6 +34,6 @@ public class DemoController {
 	
 	@GetMapping("/ISD-0006")
 	public String HelloWordISD0006() {
-		return demoInterface.HelloWordISD0005();
+		return demoInterface.HelloWordISD0006();
 	}
 }
