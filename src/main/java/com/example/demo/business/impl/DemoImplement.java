@@ -24,8 +24,7 @@ public class DemoImplement implements DemoInterface {
 
 	@Override
 	public String HelloWordISD0004() {
-		// TODO Auto-generated method stub
-		return null;
+		return "HelloWordISD0004";
 	}
 	
 	
