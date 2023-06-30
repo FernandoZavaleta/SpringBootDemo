@@ -22,13 +22,10 @@ public class DemoImplement implements DemoInterface {
 		return "HelloWordISD0003";
 	}
 
-	@Override
-	public String HelloWordISD0004() {
-		return "HelloWordISD0004";
-	}
 	
 	@Override
 	public String HelloWordISD0005() {
 		return "HelloWordISD0005";
 	}
+
 }
