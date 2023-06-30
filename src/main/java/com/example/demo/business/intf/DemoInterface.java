@@ -5,4 +5,5 @@ public interface DemoInterface {
 	public String HelloWordISD0002();
 	public String HelloWordISD0003();
 	public String HelloWordISD0005();
+	public String HelloWordISD0006();
 }
