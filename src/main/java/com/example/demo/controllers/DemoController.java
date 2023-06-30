@@ -31,5 +31,5 @@ public class DemoController {
 	public String HelloWordISD0005() {
 		return demoInterface.HelloWordISD0005();
 	}
-	
+
 }
