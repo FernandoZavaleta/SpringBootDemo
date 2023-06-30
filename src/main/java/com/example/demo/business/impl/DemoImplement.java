@@ -17,4 +17,9 @@ public class DemoImplement implements DemoInterface {
 		return "HelloWordISD0002";
 	}
 
+	@Override
+	public String HelloWordISD0003() {
+		return "HelloWordISD0003";
+	}
+	
 }

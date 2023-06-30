@@ -22,4 +22,9 @@ public class DemoController {
 		return demoInterface.HelloWordISD0002();
 	}
 	
+	@GetMapping("/ISD-0003")
+	public String HelloWordISD0003() {
+		return demoInterface.HelloWordISD0003();
+	}
+	
 }
